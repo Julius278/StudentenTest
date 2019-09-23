@@ -1,0 +1,8 @@
+Hello World!
+Test
+
+Diese Zeile schaue ich mir in der Git GUI nochmal genauer an und lade sie dann in mein Repository.
+
+Diese Zeile ist in VSC bearbeitet.
+
+diese Zeile wurde per Kommandozeile bearbeitet.
